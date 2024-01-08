@@ -1,0 +1,1 @@
+worker: dicomain.py
